@@ -3,5 +3,5 @@
 echo "ossf";
 
 echo "outro";
-
+novo;
 ?>
