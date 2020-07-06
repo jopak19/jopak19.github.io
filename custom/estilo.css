@@ -16,20 +16,10 @@ body{
     flex-direction: row;
     align-items: center;
 }
-/*
 .texto-banner{
     margin-left: 10%;
     width: 30%;
     color: white;
-    margin-bottom: 0;
-    text-align: left;
-}
-*/
-.texto-banner{
-    margin-left: 10%;
-    width: 30%;
-    color: white;
-    margin-bottom: 0;
     text-align: left;
 }
 .desative{
