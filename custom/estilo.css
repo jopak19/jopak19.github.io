@@ -16,6 +16,15 @@ body{
     flex-direction: row;
     align-items: center;
 }
+/*
+.texto-banner{
+    margin-left: 10%;
+    width: 30%;
+    color: white;
+    margin-bottom: 0;
+    text-align: left;
+}
+*/
 .texto-banner{
     margin-left: 10%;
     width: 30%;
@@ -162,5 +171,22 @@ h2{
 	}
 	.sobremim{
 		margin-top: 15px;
+	}
+	.texto-banner{
+		margin: 0 auto;
+		width: 50%;
+		color: white;
+		text-align: left;
+	}
+}
+@media screen and (max-width: 500px){
+	.texto-banner{
+		margin: 0 auto;
+		width: 70%;
+		color: white;
+		text-align: justify;
+	}
+	.texto-banner > h1{
+		font-size: 30px;
 	}
 }
